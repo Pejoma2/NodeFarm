@@ -53,5 +53,16 @@
     "price": "2.00",
     "organic": false,
     "description": "Also known as maize, corn is one of the most popular cereal grains in the world. Popcorn and sweet corn are commonly eaten varieties, but refined corn products are also widely consumed, frequently as ingredients in foods. These include tortillas, tortilla chips, polenta, cornmeal, corn flour, corn syrup, and corn oil. Whole-grain corn is as healthy as any cereal grain, rich in fiber and many vitamins, minerals, and antioxidants."
+  },
+  {
+    "id": 5,
+    "productName": "Tomatoes",
+    "image": "🍅",
+    "from": "UK",
+    "nutrients": "Vitamin C, Vitamin A",
+    "quantity": "12 🍅",
+    "price": "4.50",
+    "organic": true,
+    "description": "Also known as a tomato, this fruit is one of the most widely cultivated and consumed around the globe. While often used as a vegetable in culinary contexts, it's botanically classified as a fruit. Varieties like cherry tomatoes and beefsteak tomatoes are commonly enjoyed, but tomatoes also find their way into a plethora of processed foods. These include sauces, ketchup, soups, and salsas. Tomatoes are not only flavorful but also nutritious, providing vitamins like vitamin C and minerals like potassium. They are also known for containing the antioxidant lycopene, which has been linked to various health benefits."
   }
 ]
